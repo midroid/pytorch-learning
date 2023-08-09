@@ -165,3 +165,4 @@ cifar-10-batches-py/
 runs/
 model.pth
 checkpoint.pth
+**/*/data
